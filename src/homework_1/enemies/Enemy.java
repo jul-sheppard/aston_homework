@@ -1,7 +1,7 @@
-package Java.enemies;
+package homework_1.enemies;
 
-import Java.Mortal;
-import Java.heroes.Hero;
+import homework_1.Mortal;
+import homework_1.heroes.Hero;
 
 public abstract class Enemy implements Mortal {
     private int health;

@@ -1,4 +1,4 @@
-package Java.heroes;
+package homework_1.heroes;
 
 public class Warrior extends Hero {
 

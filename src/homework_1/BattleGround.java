@@ -1,11 +1,11 @@
-package Java;
+package homework_1;
 
-import Java.enemies.Enemy;
-import Java.enemies.impl.Skeleton;
-import Java.enemies.impl.Spider;
-import Java.enemies.impl.Zombie;
-import Java.heroes.Hero;
-import Java.heroes.Warrior;
+import homework_1.enemies.Enemy;
+import homework_1.enemies.impl.Skeleton;
+import homework_1.enemies.impl.Spider;
+import homework_1.enemies.impl.Zombie;
+import homework_1.heroes.Hero;
+import homework_1.heroes.Warrior;
 
 import java.util.ArrayList;
 

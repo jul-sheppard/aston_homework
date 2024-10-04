@@ -1,7 +1,7 @@
-package Java.heroes;
+package homework_1.heroes;
 
-import Java.Mortal;
-import Java.enemies.Enemy;
+import homework_1.Mortal;
+import homework_1.enemies.Enemy;
 
 public abstract class Hero implements Mortal {
     private final String name;

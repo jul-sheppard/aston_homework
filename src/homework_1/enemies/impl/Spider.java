@@ -1,6 +1,6 @@
-package Java.enemies.impl;
+package homework_1.enemies.impl;
 
-import Java.enemies.Enemy;
+import homework_1.enemies.Enemy;
 
 public class Spider extends Enemy {
     public Spider(int health) {

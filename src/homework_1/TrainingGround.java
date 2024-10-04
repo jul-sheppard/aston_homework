@@ -1,9 +1,9 @@
-package Java;
+package homework_1;
 
-import Java.enemies.impl.Skeleton;
-import Java.enemies.impl.Spider;
-import Java.enemies.impl.Zombie;
-import Java.heroes.*;
+import homework_1.enemies.impl.Skeleton;
+import homework_1.enemies.impl.Spider;
+import homework_1.enemies.impl.Zombie;
+import homework_1.heroes.*;
 
 public abstract class TrainingGround {
         public static void main(String[] args) {
